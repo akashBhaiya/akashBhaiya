@@ -1,3 +1,7 @@
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*f-VZ7NhXFQiNIeKtySmViA.png">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="akashbhaiya" /> </p>
+
 # 🌐 Aspiring Data Analyst | Passionate About Data-Driven Insights  
 Hi there! 👋 I'm Akash Vishwakarma , an aspiring Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
 
