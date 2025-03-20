@@ -6,7 +6,6 @@ Hi there! 👋 I'm Akash Vishwakarma , an aspiring Data Analyst with a passion f
 🎓 **Pursuing Data Analytics** at **Masai School** (OCT 2024 - Current)  
 🎓 **Recent graduate** of **Narula Institue of Technology**, where I earned a **Engineering in Electronics and Communication** (Nov 2020 - Jun 2024) 🎓  
 
-
 ---
 
 ## 🧠 My Mindset  
