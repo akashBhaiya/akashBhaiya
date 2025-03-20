@@ -1,4 +1,4 @@
-![logo]([png link address](https://media.licdn.com/dms/image/v2/D5616AQEN8nVEnm8BYw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737611382251?e=1747872000&v=beta&t=UfezRTKjq28Iz-ofOk2fBY9FVZuuE527sWrXymEr2FI))
+![logo](![1737611382251](https://github.com/user-attachments/assets/987d8616-d772-4ae2-a984-fd79c989cfa8))
 
 <h1 align="center">Hi 👋, I'm Akash Vishwakarma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
