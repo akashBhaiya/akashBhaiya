@@ -1,33 +1,97 @@
-![logo](![1737611382251](https://github.com/user-attachments/assets/987d8616-d772-4ae2-a984-fd79c989cfa8))
+# 🌐 Aspiring Data Analyst | Passionate About Data-Driven Insights  
+Hi there! 👋 I'm Akash Vishwakarma , an aspiring Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
 
-<h1 align="center">Hi 👋, I'm Akash Vishwakarma</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+---
+## 🌱 Current Endeavors  
+🎓 **Pursuing Data Analytics** at **Masai School** (OCT 2024 - Current)  
+🎓 **Recent graduate** of **Narula Institue of Technology**, where I earned a **Engineering in Electronics and Communication** (Nov 2020 - Jun 2024) 🎓  
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*f-VZ7NhXFQiNIeKtySmViA.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="akashbhaiya" /> </p>
+---
 
-- 🌱 I’m currently learning **Machine learning,AI**
+## 🧠 My Mindset  
+I thrive on **problem-solving** 🧩, **teamwork** 🤝, and **adaptability** 🌀. Whether it’s a complex dataset or a challenging project, I approach it with curiosity and determination to deliver results. 💡 
 
-- 👯 I’m looking to collaborate on **Data related Project**
+---
 
-- 💬 Ask me about **Anything,I'm ready to help.**
+### 🔧 Programming Languages I know
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+</div>
 
-- 📫 How to reach me **akashvishwakarmaav84@gmail.com**
+---
 
-- ⚡ Fun fact **I love to write poems in my free time.**
+## 🛠️ Tech I have worked on 
+💻 **Languages & Tools:**  
+Python 🐍, SQL 💾
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash-vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-vishwakarma" height="30" width="40" /></a>
-<a href="https://instagram.com/the_only_siddharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_only_siddharth" height="30" width="40" /></a>
-</p>
+📊 **Data Techniques:**  
+Data Analysis & Visualization 📈
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+📈 **Visualization Tools:**  
+Power BI 📊, Matplotlib 📉, Seaborn 🎨  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashbhaiya&show_icons=true&locale=en&layout=compact" alt="akashbhaiya" /></p>
+🛠️ **Other Skills:**  
+Numpy 🧮, Pandas 🐼  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashbhaiya&show_icons=true&locale=en" alt="akashbhaiya" /></p>
+I enjoy building **dashboards**, creating **predictive models**, and experimenting with **API** to derive actionable insights. 🤖  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashbhaiya&" alt="akashbhaiya" /></p>
+---
+
+### 📊 Data Analysis & Visualization  
+<div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</div>
+
+### 🧹 Data Wrangling & ETL  
+<div>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+</div>
+
+
+### 📂 Databases  
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
+
+### 🛠 Development Tools  
+<div>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</div>
+
+---
+
+
+## 🌱 Let’s Connect!  
+Feel free to reach out or collaborate with me:  
+<div>
+  <a href="https://github.com/akashBhaiya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akash-vishwakarma-396b89210">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="akashvishwakarmaav84@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+--- 
+
+### 📊 GitHub Activity  
+![Shailesh's Contributions](https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical&hide_border=true)
+
+### 🧑‍💻 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-1011&layout=compact&theme=radical&hide_border=true)
+
+### 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=shailesh-1011&theme=radical&no-frame=true&margin-w=15)
+
+
